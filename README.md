@@ -32,6 +32,8 @@ The only printed pieces not included in this repository are the various degree m
 
 - [40x10mm 5V Blower](https://www.digikey.com/product-detail/en/delta-electronics/BFB0405HHA-A/603-1113-ND/1014444) 
 
+- [3M GoPro Mount](https://www.amazon.com/dp/B00BUD6LPY) 
+
 # ToDo
 
 - [x] Design _Left_ and _Right_ portions of FrEON housing
