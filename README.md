@@ -22,7 +22,7 @@ If you don't already have an EON Dashcam DevKit, you can buy one here: https://c
 
 The only printed pieces not included in this repository are the various degree mounting clips—these parts can be found on [Comma.ai's GitHub](https://github.com/commaai/neo/tree/master/case/eon). 
 
-# Non-Printable Parts
+# Non-Printable Parts & Hardware
 
 - [8 x M3x6mm screws](https://www.amazon.com/dp/B079821FCN/ref=twister_B079838C8T?_encoding=UTF8&psc=1)
 
