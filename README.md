@@ -1,17 +1,26 @@
 # OpenFrEON
 
-Open Source FrEON parts to replace broken or damaged pieces on your existing **EON Dashcam DevKit** from [comma.ai](http://comma.ai).
+Open Source FrEON parts to replace broken or damaged pieces on your existing **EON Dashcam DevKit** from [Comma.ai](http://comma.ai).
 
 If you don't already have an EON Dashcam DevKit, you can buy one here: https://comma.ai/shop/products/eon-dashcam-devkit/
 
 ![FrEON](https://i.imgur.com/OES5fBl.png)
 
+# Printable—Included Parts
+
+- FrEON Body Left
+
+- FrEON Body Right
+
+- FrEON Bottom Clip
+
+- FrEON Fan Cover Grill
+
+- Fake Heatsink
 
 # Printable—not-included Parts
 
-The only pieces not included in this repository are the various degrees of mounting clips—these parts can be found on [Comma.ai's GitHub](https://github.com/commaai/neo/tree/master/case/eon). 
-
-
+The only printed pieces not included in this repository are the various degrees of mounting clips—these parts can be found on [Comma.ai's GitHub](https://github.com/commaai/neo/tree/master/case/eon). 
 
 # Non-Printable Parts
 
@@ -37,9 +46,11 @@ The only pieces not included in this repository are the various degrees of mount
 
 - [ ] Peltier Version
 
+- [ ] Custom FrEON Board
+
 # Support
 
-If you have any questions regarding development or issues with the current design, find me on [slack](comma.slack.com) @Chase
+If you have any questions regarding development or issues with the current design, find me on [Slack](comma.slack.com) _@Chase_
 
 
 
