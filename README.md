@@ -4,7 +4,9 @@ Open Source FrEON parts to replace broken or damaged pieces on your existing **E
 
 If you don't already have an EON Dashcam DevKit, you can buy one here: https://comma.ai/shop/products/eon-dashcam-devkit/
 
-# Printable-not-included Parts
+![FrEON](https://imgur.com/p21KaUc)
+
+# Printable—not included Parts
 
 The only pieces not included in this repository are the various degrees of mounting clips—these parts can be found on [Comma.ai's GitHub](https://github.com/commaai/neo/tree/master/case/eon). 
 
