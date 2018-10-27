@@ -2,7 +2,7 @@
 
 Open Source parts to replace broken or damaged pieces on your existing **EON Dashcam DevKit** from [Comma.ai](http://comma.ai).
 
-If you don't already have an EON Dashcam DevKit, you can buy one here: https://comma.ai/shop/products/eon-dashcam-devkit/
+If you don't already have an EON Dashcam DevKit, you can buy one here: [https://comma.ai/shop/products/eon-dashcam-devkit/](https://comma.ai/shop/products/eon-dashcam-devkit/?ref=4)
 
 ![FrEON](https://i.imgur.com/OES5fBl.png)
 
