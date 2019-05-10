@@ -27,5 +27,6 @@ If you don't already have an EON Dashcam DevKit, you can buy one here: [https://
 
 If you have any questions regarding development or issues with the current design, find me on [Slack](comma.slack.com) _@Chase_
 
+Donate: https://paypal.me/chasehiggins/
 
 
