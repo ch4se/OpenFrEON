@@ -1,5 +1,5 @@
 
-# OpenFrEON 2.0
+# OpenFrEON
 
 Open Source parts to replace broken or damaged pieces on your existing **EON Dashcam DevKit** from [Comma.ai](http://comma.ai).
 
