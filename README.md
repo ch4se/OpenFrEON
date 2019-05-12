@@ -13,7 +13,7 @@ Note: These components are designed to fit the dimensions the One Plus 3T smartp
 
 - FrEON2.stl (All parts for standard FrEON 2.0)
 
-- FrEON2EM.stl (All parts for FrEON 2.0 modded for 140mm heatsink)
+- FrEON2EM.stl (All parts for FrEON 2.0 modded for 140mm heatsink
 
 **FrEON2-Components**
 
@@ -54,6 +54,8 @@ Note: These components are designed to fit the dimensions the One Plus 3T smartp
 If you have any questions regarding development or issues with the current design, find me on [Discord](https://discord.comma.ai/) _@Chase_
 
 Help fund this project and future projects by donating via paypal: https://paypal.me/chasehiggins/
+
+Or support me on patreon: https://www.patreon.com/chasehiggins/
 
 Support Comma.ai and myself by buying an EON using my affiliate link: https://comma.ai/shop/?ref=4 
 
